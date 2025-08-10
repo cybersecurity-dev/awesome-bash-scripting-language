@@ -1,5 +1,5 @@
 # Awesome [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) Scripting [Language](https://en.wikipedia.org/wiki/Scripting_language) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVE4xP0WgiRLa_Fiszl83s0&si=wi1Q9-2vfEHi44Ei) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVE4xP0WgiRLa_Fiszl83s0&si=wi1Q9-2vfEHi44Ei) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/bash/)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
