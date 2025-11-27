@@ -1,8 +1,9 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-      <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Bash_logo.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+          <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Bash_logo.svg" />
+        </a>
+    </p>
 
 # Awesome [Bash](https://www.gnu.org/software/bash/manual/bash.html) Scripting [Language](https://en.wikipedia.org/wiki/Scripting_language) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
