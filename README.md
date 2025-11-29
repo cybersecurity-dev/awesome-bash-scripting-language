@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# Awesome [Bash](https://www.gnu.org/software/bash/manual/bash.html) Scripting [Language](https://en.wikipedia.org/wiki/Scripting_language) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Bash](https://www.gnu.org/software/bash/manual/bash.html) Scripting [Language](https://en.wikipedia.org/wiki/Scripting_language) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
